@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: mongoCrud
+  annotations:
+    github.com/project-slug: Bzaid94/mongoCrud
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
